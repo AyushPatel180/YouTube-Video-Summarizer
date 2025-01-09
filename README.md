@@ -1,4 +1,4 @@
-# YouTube Video Summarizer Pro 🎥
+# YouTube Video Summarizer 🎥
 
 An advanced AI-powered application that generates comprehensive summaries of YouTube videos using Streamlit, combining the power of YouTube's API, OpenAI's Whisper, and Groq's language models for intelligent content analysis.
 
@@ -26,8 +26,8 @@ An advanced AI-powered application that generates comprehensive summaries of You
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Youtube-Summarizer.git
-cd Youtube-Summarizer
+git clone https://github.com/yourusername/Youtube-video-Summarizer.git
+cd Youtube-video-Summarizer
 ```
 
 2. Install required packages:
