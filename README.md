@@ -145,18 +145,4 @@ app.py
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- OpenAI for Whisper
-- Groq for their language models
-- Streamlit for the web framework
-- YouTube API for caption access
-- FFmpeg for audio processing
-
-## 🤝 Support
-
-For support, please open an issue in the repository or contact the maintainers.
