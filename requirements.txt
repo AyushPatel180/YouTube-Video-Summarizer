@@ -1,0 +1,7 @@
+streamlit
+langchain-groq
+youtube-transcript-api
+python-dotenv
+yt-dlp
+openai-whisper
+ffmpeg-python
