@@ -26,8 +26,8 @@ An advanced AI-powered application that generates comprehensive summaries of You
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/youtube-summarizer-pro.git
-cd youtube-summarizer-pro
+git clone https://github.com/yourusername/Youtube-Summarizer.git
+cd Youtube-Summarizer
 ```
 
 2. Install required packages:
@@ -113,6 +113,14 @@ app.py
    - Supports all languages
    - Higher accuracy
    - Requires more processing time
+
+| Use Case                                       | Best Model | Reason                                      |
+|-----------------------------------------------|-----------|---------------------------------------------|
+| Real-time transcription (Fast & Light)       | Tiny/Base | Low memory usage, fast                     |
+| General transcription (Balanced)             | Small     | Good accuracy & speed                      |
+| High-quality transcription                   | Medium    | Very accurate, handles noise               |
+| Best accuracy (Complex audio, accents, multiple languages) | Large | Highest accuracy, but slow                 |
+
 
 ### Summary Lengths
 
