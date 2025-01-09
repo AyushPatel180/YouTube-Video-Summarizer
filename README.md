@@ -109,10 +109,12 @@ app.py
    - Limited to available caption languages
 
 2. **Whisper AI**
-   - Local processing using OpenAI's Whisper
+   - Local processing using OpenAI's Whisper( used the Small model)
    - Supports all languages
    - Higher accuracy
    - Requires more processing time
+
+**Whisper Model Recommendations**
 
 | Use Case                                       | Best Model | Reason                                      |
 |-----------------------------------------------|-----------|---------------------------------------------|
