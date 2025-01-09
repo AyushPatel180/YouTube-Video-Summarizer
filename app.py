@@ -116,7 +116,7 @@ def initialize_whisper():
         whisper.audio.SAMPLE_RATE = 16000
         whisper.audio.N_FRAMES = 480000
         
-        model = whisper.load_model("medium", device=device)
+        model = whisper.load_model("small", device=device)
         st.success("✓ Whisper model loaded successfully")
         return model
     except Exception as e:
